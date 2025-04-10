@@ -1,4 +1,4 @@
-# Parallax_Web_SK: https://sk-epic-24.github.io/Parallax_Web_SK/
+# Parallax_Web_SK Website: https://sk-epic-24.github.io/Parallax_Web_SK/
 
 🚘 OLD IS GOLD — Vintage Car Parallax Webpage
 This is a simple, elegant web project built using HTML5 and CSS3 to present legendary vintage cars in a visually striking format. The page features a parallax scrolling effect, beautiful typography, and a clean design that highlights the timeless charm of classic automobiles.
@@ -56,3 +56,6 @@ Clone or download the repository.
 Make sure all images are placed in the same directory as the HTML and CSS files.
 
 Open index.html in any modern web browser.
+
+Author:
+Shyamsunder Kadam
